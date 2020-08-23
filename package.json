@@ -1,0 +1,11 @@
+{
+  "name": "mileage",
+  "version": "1.0.0",
+  "description": "Tugas Minggu 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MUHAMMAD",
+  "license": "ISC"
+}
