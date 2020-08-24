@@ -1,2 +1,2 @@
-## flowchart milieage
+## flowchart mileage
 ![flowchart](mileage.png)
